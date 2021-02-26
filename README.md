@@ -1,3 +1,9 @@
+# Modified by Michael Gao to include Duke Theme
+## Installation
+```
+devtools::install_github("https://github.com/michaelgao8/prettydoc", ref = "add-duke-theme")
+```
+
 ## Creating Pretty Documents From R Markdown
 
 > Have you ever tried to find a lightweight yet nice theme for the R Markdown
